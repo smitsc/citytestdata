@@ -1,0 +1,155 @@
+[
+    {
+        "city": "New York", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 40.7127837, 
+        "longitude": -74.0059413, 
+        "population": "8405837", 
+        "rank": "1", 
+        "state": "New York"
+    }, 
+    {
+        "city": "Los Angeles", 
+        "growth_from_2000_to_2013": "4.8%", 
+        "latitude": 34.0522342, 
+        "longitude": -118.2436849, 
+        "population": "3884307", 
+        "rank": "2", 
+        "state": "California"
+    }, 
+    {
+        "city": "Chicago", 
+        "growth_from_2000_to_2013": "-6.1%", 
+        "latitude": 41.8781136, 
+        "longitude": -87.6297982, 
+        "population": "2718782", 
+        "rank": "3", 
+        "state": "Illinois"
+    }, 
+    {
+        "city": "Houston", 
+        "growth_from_2000_to_2013": "11.0%", 
+        "latitude": 29.7604267, 
+        "longitude": -95.3698028, 
+        "population": "2195914", 
+        "rank": "4", 
+        "state": "Texas"
+    }, 
+    {
+        "city": "Philadelphia", 
+        "growth_from_2000_to_2013": "2.6%", 
+        "latitude": 39.9525839, 
+        "longitude": -75.1652215, 
+        "population": "1553165", 
+        "rank": "5", 
+        "state": "Pennsylvania"
+    }, 
+    {
+        "city": "Phoenix", 
+        "growth_from_2000_to_2013": "14.0%", 
+        "latitude": 33.4483771, 
+        "longitude": -112.0740373, 
+        "population": "1513367", 
+        "rank": "6", 
+        "state": "Arizona"
+    }, 
+    {
+        "city": "San Antonio", 
+        "growth_from_2000_to_2013": "21.0%", 
+        "latitude": 29.4241219, 
+        "longitude": -98.49362819999999, 
+        "population": "1409019", 
+        "rank": "7", 
+        "state": "Texas"
+    }, 
+    {
+        "city": "San Diego", 
+        "growth_from_2000_to_2013": "10.5%", 
+        "latitude": 32.715738, 
+        "longitude": -117.1610838, 
+        "population": "1355896", 
+        "rank": "8", 
+        "state": "California"
+    }, 
+    {
+        "city": "Minneapolis", 
+        "growth_from_2000_to_2013": "4.5%", 
+        "latitude": 44.977753, 
+        "longitude": -93.2650108, 
+        "population": "400070", 
+        "rank": "46", 
+        "state": "Minnesota"
+    }, 
+    {
+        "city": "Tulsa", 
+        "growth_from_2000_to_2013": "1.3%", 
+        "latitude": 36.1539816, 
+        "longitude": -95.99277500000001, 
+        "population": "398121", 
+        "rank": "47", 
+        "state": "Oklahoma"
+    }, 
+    {
+        "city": "Cleveland", 
+        "growth_from_2000_to_2013": "-18.1%", 
+        "latitude": 41.49932, 
+        "longitude": -81.6943605, 
+        "population": "390113", 
+        "rank": "48", 
+        "state": "Ohio"
+    }, 
+    {
+        "city": "Wichita", 
+        "growth_from_2000_to_2013": "9.7%", 
+        "latitude": 37.688889, 
+        "longitude": -97.336111, 
+        "population": "386552", 
+        "rank": "49", 
+        "state": "Kansas"
+    }, 
+    {
+        "city": "Arlington", 
+        "growth_from_2000_to_2013": "13.3%", 
+        "latitude": 32.735687, 
+        "longitude": -97.10806559999999, 
+        "population": "379577", 
+        "rank": "50", 
+        "state": "Texas"
+    }, 
+    {
+        "city": "New Orleans", 
+        "growth_from_2000_to_2013": "-21.6%", 
+        "latitude": 29.95106579999999, 
+        "longitude": -90.0715323, 
+        "population": "378715", 
+        "rank": "51", 
+        "state": "Louisiana"
+    }, 
+    {
+        "city": "Bakersfield", 
+        "growth_from_2000_to_2013": "48.4%", 
+        "latitude": 35.3732921, 
+        "longitude": -119.0187125, 
+        "population": "363630", 
+        "rank": "52", 
+        "state": "California"
+    }, 
+    {
+        "city": "Tampa", 
+        "growth_from_2000_to_2013": "16.0%", 
+        "latitude": 27.950575, 
+        "longitude": -82.4571776, 
+        "population": "352957", 
+        "rank": "53", 
+        "state": "Florida"
+    }, 
+    {
+        "city": "Panama City", 
+        "growth_from_2000_to_2013": "0.1%", 
+        "latitude": 30.1588129, 
+        "longitude": -85.6602058, 
+        "population": "36877", 
+        "rank": "1000", 
+        "state": "Florida"
+    }
+]
